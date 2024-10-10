@@ -11,7 +11,7 @@ category: hackthebox
 tags:
   - hackthebox
   - Servmon
-author: Ahmed Fatouh
+author: Mohamed Abdelghani
 paginate: true
 ---
 
@@ -250,7 +250,7 @@ To successfully exploit this vulnerability, an attacker must already have local 
 
 - Thanks for reading.
 
- <script src="https://www.hackthebox.eu/badge/103789"></script>
+ <script src="https://x.com/SnowCr4ck/"></script>
 
 	
 
