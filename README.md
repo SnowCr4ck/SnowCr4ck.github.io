@@ -1,1 +1,2 @@
-# SnowCr4ck BlogSite
+
+https://snowcr4ck.github.io
